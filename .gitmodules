@@ -1,0 +1,3 @@
+[submodule "PublicLibrary/glfw"]
+	path = PublicLibrary/glfw
+	url = https://github.com/xiangbuchule/glfw
